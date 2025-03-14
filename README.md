@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @dudarph
-- 👀 I’m interested in frontend development ...
-- 🌱 I’m currently learning how to create web-sites ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Daniel Dudar (DanFlow)
+- 👀 I’m interested in UX/UI and creating amazing user friendly web-sites/web-apps
+- 🌱 I’m currently learning UX mostly
+- 💞️ I’m looking to collaborate on web-development
+- 📫 How to reach me:
 
-<!---
-dudarph/dudarph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- telegram -- @danicheos
+- gmail -- marshmelou32@gmail.com
+
